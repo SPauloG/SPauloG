@@ -1,10 +1,10 @@
-
+# Hey! I'm Sergio
 
 <p align="center">I solve great challenges using tech. <br><br> I am <strong>passionate to discover new stuffs</strong> and use them to create high quality solutions. Today, I'm a <strong>mid-level data analyst </strong>.</p> &nbsp;
 
 <div  align="center" style="margin-bottom:100px">
 <img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=spaulog&theme=radical&mode=weekly" />
-<img width=40% align="center" src="https://github-readme-stats-sable-kappa-10.vercel.app/api/top-langs/?username=spaulog&show_icons=true&theme=radical&layout=compact" />
+<img width=40% align="center" src="https://github-readme-stats-three-phi-48.vercel.app/api/top-langs/?username=spaulog&show_icons=true&theme=radical&layout=compact" />
  </div>
 
  &nbsp;
@@ -14,7 +14,7 @@
 
 ## My Skills
 
-#### Main Stack:
+#### Main Skills:
 
 ![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white)&nbsp;
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)&nbsp;
