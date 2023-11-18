@@ -1,8 +1,6 @@
 
-<img align="center" style="margin-bottom:100px" width=100% src="Hey, I'm Sergio" />
-&nbsp;&nbsp;&nbsp;
 
-<p align="center">I solve great challenges using tech. <br><br> I am <strong>passionate to discover new stuffs</strong> and use them to create high quality solutions. Today, I'm a <strong>mid-level data analyst </strong>.</p>&nbsp;
+<p align="center">I solve great challenges using tech. <br><br> I am <strong>passionate to discover new stuffs</strong> and use them to create high quality solutions. Today, I'm a <strong>mid-level data analyst </strong>.</p> &nbsp;
 
 <div  align="center" style="margin-bottom:100px">
 <img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=spaulog&theme=radical&mode=weekly" />
